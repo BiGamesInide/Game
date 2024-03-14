@@ -62,19 +62,6 @@
     color: #FFFFFF;
     text-align: center;
 }
-
-.logo .descargar {
-    background-color: #FFFFFF;
-    width: 25%;
-    height: 50px;
-    margin-top: 344px;
-    text-align: center;
-    margin-right: 170px;
-    margin-left: 170px;
-    border-radius: 6px;
-    font-family: "Funny Writing";
-    font-size: 333%;
-}
 .PRONTO {
     width: 25%;
     height: 50px;
@@ -83,13 +70,37 @@
     font-size: 411%;
     text-align: center;
     border-radius: 6px;
-    float: right;
-    margin-right: 170px;
     padding-top: 0px;
-    margin-top: -49px;
+    float: right;
+    margin-right: -540px;
+    margin-top: 339px;
 }
 .MEME {
     width: 100%;
     height: 100px;
-    margin-top: 52px;
+    margin-top: 246px;
+}
+.logo .descargarV1 {
+    width: 25%;
+    height: 50px;
+    color: #000000;
+    border-radius: 6px;
+    background-color: #FFFFFF;
+    font-size: 333%;
+    font-family: "Funny Writing";
+    margin-left: 168px;
+    text-align: center;
+    margin-top: 347px;
+}
+.logo .descargarV2 {
+    width: 25%;
+    height: 50px;
+    background-color: #FFFFFF;
+    font-family: "Funny Writing";
+    text-align: center;
+    font-size: 333%;
+    border-radius: 6px;
+    margin-left: 168px;
+    margin-top: 18px;
+    color: #000000;
 }
