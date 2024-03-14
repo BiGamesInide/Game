@@ -1,0 +1,95 @@
+@charset "utf-8";
+.logo .logo {
+    width: 62%;
+    height: 178px;
+    padding-top: auto;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-left: auto;
+    top: auto;
+    right: auto;
+    text-align: center;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+}
+.logo .Descripsion {
+    background-color: #5C5C5C;
+    width: 100%;
+    height: 72px;
+    color: #FFFFFF;
+    font-style: normal;
+    font-variant: normal;
+    padding-top: 11px;
+    border-radius: 6px;
+    text-align: center;
+}
+.logo .lateral {
+    width: 50%;
+    height: 298px;
+    background-color: #676767;
+    padding-top: 0px;
+    margin-top: 159px;
+    color: #FFFFFF;
+    border-radius: 6px;
+    padding-right: 0px;
+    text-align: center;
+}
+.logo .publicasion .Proyectos {
+    width: 100%;
+    height: 96px;
+    margin-top: -425px;
+    color: #FFFFFF;
+    background-color: #5A5A5A;
+    background-repeat: repeat;
+    text-align: center;
+    padding-bottom: auto;
+    padding-top: auto;
+    padding-right: auto;
+    padding-left: auto;
+    margin-bottom: auto;
+    font-family: "Funny Writing";
+    font-size: 661%;
+    border-radius: 6px;
+}
+.logo .publicasion .AlmostHumans {
+    width: 50%;
+    height: 300px;
+    background-color: #737373;
+    float: right;
+    border-radius: 6px;
+    margin-top: 31px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.logo .descargar {
+    background-color: #FFFFFF;
+    width: 25%;
+    height: 50px;
+    margin-top: 344px;
+    text-align: center;
+    margin-right: 170px;
+    margin-left: 170px;
+    border-radius: 6px;
+    font-family: "Funny Writing";
+    font-size: 333%;
+}
+.PRONTO {
+    width: 25%;
+    height: 50px;
+    background-color: #FFFFFF;
+    font-family: "Funny Writing";
+    font-size: 411%;
+    text-align: center;
+    border-radius: 6px;
+    float: right;
+    margin-right: 170px;
+    padding-top: 0px;
+    margin-top: -49px;
+}
+.MEME {
+    width: 100%;
+    height: 100px;
+    margin-top: 52px;
+}
